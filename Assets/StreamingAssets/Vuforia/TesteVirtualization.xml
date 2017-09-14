@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="2039466914619514338993482105545022o" size="1.000000 1.000000" />
+    <ImageTarget name="2042476914619693338975581738925366oConvertImage" size="1.000000 0.882000" />
     <ImageTarget name="dino" size="1.000000 0.801758" />
-    <ImageTarget name="vo" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
