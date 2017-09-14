@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: ba86db2e4dbe87b40ac3522e3932ed10
+timeCreated: 1505324400
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bone010
+    100002: Bone011
+    100004: Bone012
+    100006: Bone014
+    100008: Bone015
+    100010: Bone016
+    100012: Bone017
+    100014: Bone018
+    100016: Bone020
+    100018: Bone021
+    100020: Bone022
+    100022: Bone023
+    100024: Bone024
+    100026: Bone025
+    100028: Bone027
+    100030: Bone028
+    100032: Bone029
+    100034: Bone030
+    100036: Bone032
+    100038: Bone033
+    100040: Bone034
+    100042: Bone035
+    100044: Bone038
+    100046: Bone040
+    100048: Bone042
+    100050: Bone043
+    100052: Bone044
+    100054: Bone045
+    100056: Bone046
+    100058: Bone047
+    100060: Bone048
+    100062: Bone049
+    100064: Bone050
+    100066: Bone051
+    100068: Bone052
+    100070: Bone053
+    100072: Bone054
+    100074: Bone055
+    100076: Bone056
+    100078: Bone057
+    100080: Bone058
+    100082: Bone059
+    100084: Bone060
+    100086: Bone062
+    100088: Bone063
+    100090: Bone064
+    100092: Bone065
+    100094: Bone066
+    100096: Bone067
+    100098: Bone068
+    100100: Bone069
+    100102: Bone070
+    100104: Bone072
+    100106: Bone073
+    100108: Bone074
+    100110: Bone075
+    100112: Bone076
+    100114: Bone077
+    100116: Bone_Corpo
+    100118: CTRL_AntenaD
+    100120: CTRL_AntenaE
+    100122: CTRL_dedogarraD
+    100124: CTRL_dedogarraE
+    100126: CTRL_GarraD
+    100128: CTRL_GarraE
+    100130: Ctrl_pernaD1
+    100132: Ctrl_pernaD2
+    100134: Ctrl_pernaD3
+    100136: Ctrl_pernaE1
+    100138: Ctrl_pernaE2
+    100140: Ctrl_pernaE3
+    100142: CTRL_pernasD
+    100144: CTRL_pernasE
+    100146: CTRL_Rabo006
+    100148: CTRL_Rabo01
+    100150: CTRL_Rabo02
+    100152: CTRL_Rabo03
+    100154: CTRL_Rabo04
+    100156: CTRL_Rabo05
+    100158: Dummy001
+    100160: IK AntenaD
+    100162: IK AntenaE
+    100164: IK DedoD
+    100166: IK DedoE
+    100168: IK GarraD
+    100170: IK GarraE
+    100172: IK PernaD1
+    100174: IK PernaD2
+    100176: IK PernaD3
+    100178: IK PernaE1
+    100180: IK PernaE2
+    100182: IK PernaE3
+    100184: IK Rabo01
+    100186: IK Rabo02
+    100188: IK Rabo03
+    100190: IK Rabo04
+    100192: IK Rabo5
+    100194: IK Rabo6
+    100196: Lagosta
+    100198: //RootNode
+    100200: NAO1
+    100202: NAO10
+    100204: NAO11
+    100206: NAO12
+    100208: NAO2
+    100210: NAO3
+    100212: NAO4
+    100214: NAO5
+    100216: NAO6
+    100218: NAO7
+    100220: NAO8
+    100222: NAO9
+    100224: OlhoD
+    100226: OlhoE
+    400000: Bone010
+    400002: Bone011
+    400004: Bone012
+    400006: Bone014
+    400008: Bone015
+    400010: Bone016
+    400012: Bone017
+    400014: Bone018
+    400016: Bone020
+    400018: Bone021
+    400020: Bone022
+    400022: Bone023
+    400024: Bone024
+    400026: Bone025
+    400028: Bone027
+    400030: Bone028
+    400032: Bone029
+    400034: Bone030
+    400036: Bone032
+    400038: Bone033
+    400040: Bone034
+    400042: Bone035
+    400044: Bone038
+    400046: Bone040
+    400048: Bone042
+    400050: Bone043
+    400052: Bone044
+    400054: Bone045
+    400056: Bone046
+    400058: Bone047
+    400060: Bone048
+    400062: Bone049
+    400064: Bone050
+    400066: Bone051
+    400068: Bone052
+    400070: Bone053
+    400072: Bone054
+    400074: Bone055
+    400076: Bone056
+    400078: Bone057
+    400080: Bone058
+    400082: Bone059
+    400084: Bone060
+    400086: Bone062
+    400088: Bone063
+    400090: Bone064
+    400092: Bone065
+    400094: Bone066
+    400096: Bone067
+    400098: Bone068
+    400100: Bone069
+    400102: Bone070
+    400104: Bone072
+    400106: Bone073
+    400108: Bone074
+    400110: Bone075
+    400112: Bone076
+    400114: Bone077
+    400116: Bone_Corpo
+    400118: CTRL_AntenaD
+    400120: CTRL_AntenaE
+    400122: CTRL_dedogarraD
+    400124: CTRL_dedogarraE
+    400126: CTRL_GarraD
+    400128: CTRL_GarraE
+    400130: Ctrl_pernaD1
+    400132: Ctrl_pernaD2
+    400134: Ctrl_pernaD3
+    400136: Ctrl_pernaE1
+    400138: Ctrl_pernaE2
+    400140: Ctrl_pernaE3
+    400142: CTRL_pernasD
+    400144: CTRL_pernasE
+    400146: CTRL_Rabo006
+    400148: CTRL_Rabo01
+    400150: CTRL_Rabo02
+    400152: CTRL_Rabo03
+    400154: CTRL_Rabo04
+    400156: CTRL_Rabo05
+    400158: Dummy001
+    400160: IK AntenaD
+    400162: IK AntenaE
+    400164: IK DedoD
+    400166: IK DedoE
+    400168: IK GarraD
+    400170: IK GarraE
+    400172: IK PernaD1
+    400174: IK PernaD2
+    400176: IK PernaD3
+    400178: IK PernaE1
+    400180: IK PernaE2
+    400182: IK PernaE3
+    400184: IK Rabo01
+    400186: IK Rabo02
+    400188: IK Rabo03
+    400190: IK Rabo04
+    400192: IK Rabo5
+    400194: IK Rabo6
+    400196: //RootNode
+    400198: Lagosta
+    400200: NAO1
+    400202: NAO10
+    400204: NAO11
+    400206: NAO12
+    400208: NAO2
+    400210: NAO3
+    400212: NAO4
+    400214: NAO5
+    400216: NAO6
+    400218: NAO7
+    400220: NAO8
+    400222: NAO9
+    400224: OlhoD
+    400226: OlhoE
+    2300000: OlhoD
+    2300002: OlhoE
+    3300000: OlhoD
+    3300002: OlhoE
+    4300000: Lagosta
+    4300002: OlhoE
+    4300004: OlhoD
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Lagosta
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
