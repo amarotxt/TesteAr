@@ -7395,6 +7395,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.43536633
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: ee711c1840211004bb9f757b6fb25782, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 70cd8e170a2e0664daab17bac532c52d, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ee711c1840211004bb9f757b6fb25782, type: 3}
   m_IsPrefabParent: 0
@@ -7625,6 +7629,10 @@ Prefab:
       propertyPath: m_Name
       value: T_rex (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: ee711c1840211004bb9f757b6fb25782, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 70cd8e170a2e0664daab17bac532c52d, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ee711c1840211004bb9f757b6fb25782, type: 3}
   m_IsPrefabParent: 0
