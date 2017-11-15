@@ -3,7 +3,7 @@ guid: ee711c1840211004bb9f757b6fb25782
 timeCreated: 1505324401
 licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 21
   fileIDToRecycleName:
     100000: Allosaur
     100002: AllosaurHead
@@ -89,22 +89,10 @@ ModelImporter:
     7400004: AbanarCalda
     9500000: //RootNode
     13700000: trex
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: 02 - Default
-    second: {fileID: 2100000, guid: b9d3976bffae64b439b24b7aeccaa0e3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Eyelids_me
-    second: {fileID: 2100000, guid: e089af322b4cb1a4bbb06d4a8579b69e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -117,7 +105,6 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -150,17 +137,19 @@ ModelImporter:
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events:
-      - time: 0.39712095
+      - time: 0.38942307
         functionName: Walking
         data: 
-        objectReferenceParameter: {instanceID: 0}
+        objectReferenceParameter: {fileID: 11500000, guid: d33066e8f7b75494b8b1ff70de960a93,
+          type: 3}
         floatParameter: 0
         intParameter: 0
         messageOptions: 0
       - time: 0.89866924
         functionName: Walking
         data: 
-        objectReferenceParameter: {instanceID: 0}
+        objectReferenceParameter: {fileID: 11500000, guid: d33066e8f7b75494b8b1ff70de960a93,
+          type: 3}
         floatParameter: 0
         intParameter: 0
         messageOptions: 0
