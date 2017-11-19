@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 797c313a629a3ad478a1335d36720d48
+timeCreated: 1511065499
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Allosaur
+    100002: Allosaur_001
+    100004: AllosaurHead
+    100006: AllosaurHead_0
+    100008: AllosaurHeadBone0
+    100010: AllosaurHeadBone1
+    100012: AllosaurLArm1
+    100014: AllosaurLArm2
+    100016: AllosaurLArmCollarbone
+    100018: AllosaurLArmCollarbone_0
+    100020: AllosaurLArmPalm
+    100022: AllosaurLArmPalm_0
+    100024: AllosaurLLeg1
+    100026: AllosaurLLeg2
+    100028: AllosaurLLeg3
+    100030: AllosaurLLeg4
+    100032: AllosaurLLegDigit21
+    100034: AllosaurLLegDigit22
+    100036: AllosaurLLegPalm
+    100038: AllosaurLLegPalm_0
+    100040: AllosaurLLegPlatform
+    100042: AllosaurNeck1
+    100044: AllosaurNeck2
+    100046: AllosaurNeck3
+    100048: AllosaurNeck4
+    100050: AllosaurNeck5
+    100052: AllosaurNeck6
+    100054: AllosaurPelvis
+    100056: AllosaurPelvis_0
+    100058: AllosaurRArm1
+    100060: AllosaurRArm2
+    100062: AllosaurRArmCollarbone
+    100064: AllosaurRArmCollarbone_0
+    100066: AllosaurRArmPalm
+    100068: AllosaurRArmPalm_0
+    100070: AllosaurRibcage
+    100072: AllosaurRibcage_0
+    100074: AllosaurRLeg1
+    100076: AllosaurRLeg2
+    100078: AllosaurRLeg3
+    100080: AllosaurRLeg4
+    100082: AllosaurRLegDigit21
+    100084: AllosaurRLegDigit22
+    100086: AllosaurRLegPalm
+    100088: AllosaurRLegPalm_0
+    100090: AllosaurRLegPlatform
+    100092: AllosaurSpine1
+    100094: AllosaurSpine2
+    100096: AllosaurSpine3
+    100098: AllosaurSpine4
+    100100: AllosaurSpine5
+    100102: AllosaurSpine6
+    100104: AllosaurTail01
+    100106: AllosaurTail02
+    100108: AllosaurTail03
+    100110: AllosaurTail04
+    100112: AllosaurTail05
+    100114: AllosaurTail06
+    100116: AllosaurTail07
+    100118: AllosaurTail08
+    100120: AllosaurTail09
+    100122: AllosaurTail10
+    100124: AllosaurTail11
+    100126: AllosaurTail12
+    100128: AllosaurTail2
+    100130: AllosaurTail3
+    100132: AllosaurTail4
+    100134: AllosaurTail5
+    100136: AllosaurTail6
+    100138: AllosaurTail7
+    100140: AllosaurTail8
+    100142: AllosaurTail9
+    100144: Armature
+    100146: Armature_001
+    100148: //RootNode
+    100150: IKLeftFet
+    100152: IKRightFet
+    100154: trex
+    100156: trex_001
+    400000: Allosaur
+    400002: Allosaur_001
+    400004: AllosaurHead
+    400006: AllosaurHead_0
+    400008: AllosaurHeadBone0
+    400010: AllosaurHeadBone1
+    400012: AllosaurLArm1
+    400014: AllosaurLArm2
+    400016: AllosaurLArmCollarbone
+    400018: AllosaurLArmCollarbone_0
+    400020: AllosaurLArmPalm
+    400022: AllosaurLArmPalm_0
+    400024: AllosaurLLeg1
+    400026: AllosaurLLeg2
+    400028: AllosaurLLeg3
+    400030: AllosaurLLeg4
+    400032: AllosaurLLegDigit21
+    400034: AllosaurLLegDigit22
+    400036: AllosaurLLegPalm
+    400038: AllosaurLLegPalm_0
+    400040: AllosaurLLegPlatform
+    400042: AllosaurNeck1
+    400044: AllosaurNeck2
+    400046: AllosaurNeck3
+    400048: AllosaurNeck4
+    400050: AllosaurNeck5
+    400052: AllosaurNeck6
+    400054: AllosaurPelvis
+    400056: AllosaurPelvis_0
+    400058: AllosaurRArm1
+    400060: AllosaurRArm2
+    400062: AllosaurRArmCollarbone
+    400064: AllosaurRArmCollarbone_0
+    400066: AllosaurRArmPalm
+    400068: AllosaurRArmPalm_0
+    400070: AllosaurRibcage
+    400072: AllosaurRibcage_0
+    400074: AllosaurRLeg1
+    400076: AllosaurRLeg2
+    400078: AllosaurRLeg3
+    400080: AllosaurRLeg4
+    400082: AllosaurRLegDigit21
+    400084: AllosaurRLegDigit22
+    400086: AllosaurRLegPalm
+    400088: AllosaurRLegPalm_0
+    400090: AllosaurRLegPlatform
+    400092: AllosaurSpine1
+    400094: AllosaurSpine2
+    400096: AllosaurSpine3
+    400098: AllosaurSpine4
+    400100: AllosaurSpine5
+    400102: AllosaurSpine6
+    400104: AllosaurTail01
+    400106: AllosaurTail02
+    400108: AllosaurTail03
+    400110: AllosaurTail04
+    400112: AllosaurTail05
+    400114: AllosaurTail06
+    400116: AllosaurTail07
+    400118: AllosaurTail08
+    400120: AllosaurTail09
+    400122: AllosaurTail10
+    400124: AllosaurTail11
+    400126: AllosaurTail12
+    400128: AllosaurTail2
+    400130: AllosaurTail3
+    400132: AllosaurTail4
+    400134: AllosaurTail5
+    400136: AllosaurTail6
+    400138: AllosaurTail7
+    400140: AllosaurTail8
+    400142: AllosaurTail9
+    400144: Armature
+    400146: Armature_001
+    400148: //RootNode
+    400150: IKLeftFet
+    400152: IKRightFet
+    400154: trex
+    400156: trex_001
+    4300000: trex_001
+    4300002: trex
+    7400000: Walking
+    7400002: Armature_001_Take_001_BaseLayer
+    7400004: ArmatureAction
+    7400006: Roar
+    7400008: Swing
+    9500000: //RootNode
+    13700000: trex
+    13700002: trex_001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02_-_Default
+    second: {fileID: 2100000, guid: 9df7537209d517e4ebf1c52589bcbf0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02_-_Default_001
+    second: {fileID: 2100000, guid: c426e49c6445fde429956dfcb6d1812b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyelids_me
+    second: {fileID: 2100000, guid: d400b72c4d8553046889ecf83921f1dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyelids_me_001
+    second: {fileID: 2100000, guid: c6b766ac0c4e8cc4a96854ef32e85972, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walking
+      takeName: Default Take
+      firstFrame: 11
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.47258064
+        functionName: Walking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6951613
+        functionName: Walking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9129032
+        functionName: Walking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.23064516
+        functionName: Swing2
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.13709678
+        functionName: Walking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_001_Take_001_BaseLayer
+      takeName: Armature_001_Take_001_BaseLayer
+      firstFrame: 2
+      lastFrame: 102
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 327
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Roar
+      takeName: Default Take
+      firstFrame: 101
+      lastFrame: 245
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.21290325
+        functionName: Swing1
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.4928173
+        functionName: Roar2
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.63064516
+        functionName: Swing2
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.08139535
+        functionName: Roar1
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swing
+      takeName: Default Take
+      firstFrame: 250
+      lastFrame: 324
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.43548393
+        functionName: Walking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.57580626
+        functionName: Walking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7451614
+        functionName: Walking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8500001
+        functionName: Walking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.28870964
+        functionName: Swing1
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5838709
+        functionName: Swing2
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7580646
+        functionName: Swing1
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
